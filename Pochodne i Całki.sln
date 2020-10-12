@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pochodne i Całki", "Pochodne i Całki\Pochodne i Całki.csproj", "{06919134-8AF6-47D2-B33B-9603FF4DD41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06919134-8AF6-47D2-B33B-9603FF4DD41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06919134-8AF6-47D2-B33B-9603FF4DD41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06919134-8AF6-47D2-B33B-9603FF4DD41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06919134-8AF6-47D2-B33B-9603FF4DD41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB5DA40-E8E2-4E95-9B5B-593A4E2AD8A8}
+	EndGlobalSection
+EndGlobal
